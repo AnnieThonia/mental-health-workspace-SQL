@@ -1,3 +1,7 @@
-# mental-health-workspace-SQL
+StudentMentalHealthSQL
 
-I Explored students data using PostgreSQL in jupyter notebook to find out if I would come to a similar conclusion for international students in japan and see if length of stay is a contributing factor to the ongoing depression issue amongst international students.
+“The StudentMentalHealthSQL repository focuses on exploring student data using PostgreSQL in a Jupyter notebook. 
+
+The aim is to investigate whether the length of stay is a contributing factor to the ongoing depression issue among international students in Japan. 
+
+By analyzing the data, I hope to gain insights that could help address mental health concerns among this population.”
